@@ -11,7 +11,7 @@ public class StringReversal {
 		String pal = "kayak";
 		System.out.println(isPalindrome(pal));
 		
-		System.out.println(isPal(pal));
+		System.out.println(isPal(pal)); 
 		
 		// Sum
 		System.out.println(sum(10));
