@@ -3,7 +3,7 @@ package ex05ArraysMediums;
 
 import java.util.Arrays;
 
-
+// Revision code is nicer and cleaner...
 public class Ex07NextPermutation {
 	public static void main(String[] args) {
 		int[] nums = {1,2,3};
